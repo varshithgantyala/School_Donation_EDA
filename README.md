@@ -28,4 +28,8 @@ This analysis addresses several key questions, including:
 4.  Open the notebook in the `notebooks/` folder to view and run the analysis.
 
 ## Data Source
-The data used in this project is from DonorsChoose.org and was sourced from Kaggle.
+The dataset for this project exceeds GitHub's file size recommendations and is hosted externally.
+
+[**Download the dataset (data) here.**](https://drive.google.com/drive/folders/1nJsjxywrf5_Ut5ckzjtE2a3E5PhAQUeq?usp=drive_link)
+
+Please download the file it into the project's root directory before running the notebook.
