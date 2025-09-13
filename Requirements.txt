@@ -1,0 +1,5 @@
+NumPy
+Pandas
+Matlplotlib
+Plotly
+Cufflinks
